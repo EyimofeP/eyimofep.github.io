@@ -1,0 +1,34 @@
+/* Your custom css code goes here */
+html{
+    scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Lora", sans-serif;
+}
+
+.probootstrap-main-nav li.active a {
+    color: #0080FE;
+    font-weight: 600;
+    font-size: x-large;
+}
+
+.service.left-icon {
+    margin-top: 30px;
+    padding-right: 10px;
+    color: whitesmoke;
+}
+
+#button{
+    display: flex; 
+    justify-content: space-between;
+}
+
+.btx{
+    border-radius: 50px;
+    font-size: large;
+    font-weight: 400;
+}
+
+
+
